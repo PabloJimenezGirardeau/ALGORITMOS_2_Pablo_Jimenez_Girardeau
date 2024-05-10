@@ -34,8 +34,7 @@ def factorial(n):
         return 1
     else:
         return n * factorial(n - 1)
-
-# Ejercicio 4: Ejercicio Ordenacion
+```
 # Bubble Sort
 
 ## Objetivo
@@ -101,3 +100,10 @@ Vamos a aplicar el método Bubble Sort a la siguiente lista de números: `[34, 7
 `[5, 7, 23, 32, 34]`
 
 Después de estas pasadas, la lista está completamente ordenada. Bubble Sort asegura que los elementos grandes se "burbujen" hacia el final de la lista con cada iteración, y el proceso se repite hasta que no se necesiten más intercambios.
+
+
+
+
+
+
+
