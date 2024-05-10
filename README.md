@@ -45,8 +45,8 @@ El objetivo de este ejercicio es entender y explicar el funcionamiento del méto
 Bubble Sort es un algoritmo de ordenación simple que repite pasos a través de una lista, comparando elementos adyacentes y cambiándolos si están en el orden incorrecto. Este proceso se repite hasta que la lista esté ordenada.
 
 ### Funcionamiento
-1. **Comparación e Intercambio:** Comienza en el primer elemento de la lista y compara el elemento actual con el siguiente. Si el elemento actual es mayor que el siguiente, se intercambian.
-2. **Iteraciones:** Recorre la lista varias veces. En cada pasada, el elemento más grande "burbujea" hacia el final de la lista.
+1. **Comparación e Intercambio:** Comienza en el primer elemento de la lista y compara el elemento actual con el siguiente. Si el elemento actual es mayor que el siguiente, se intercambian las posiciones
+2. **Iteraciones:** Recorre la lista varias veces. En cada pasada, el elemento más grande "burbujea" hacia el final de la lista. 
 3. **Pasada Completa:** Se repite el proceso de comparación e intercambio para cada elemento de la lista en cada pasada, excluyendo los últimos elementos ya ordenados.
 
 ### Ventajas
