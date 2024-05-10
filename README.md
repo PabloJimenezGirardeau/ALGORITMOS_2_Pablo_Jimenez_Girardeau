@@ -35,7 +35,7 @@ def factorial(n):
     else:
         return n * factorial(n - 1)
 ```
-# Bubble Sort
+# Ejercico 4 : Bubble Sort
 
 ## Objetivo
 El objetivo de este ejercicio es entender y explicar el funcionamiento del método de ordenación Bubble Sort (Ordenamiento Burbuja) y demostrar su aplicación en un contexto teórico.
